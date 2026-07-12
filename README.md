@@ -5,7 +5,9 @@
 ### Fullstack Developer · Astana, Kazakhstan
 
 <!-- Получи ссылку по инструкции (Issues → New issue → перетащи profile-banner.png → скопируй URL) и вставь её сюда вместо src ниже -->
-<img src="PASTE_YOUR_GITHUB_CDN_LINK_HERE" alt="Damir Zhumangali — Fullstack Developer" width="700">
+<img width="836" height="391" alt="profile-banner" src="https://github.com/user-attachments/assets/8bbb4f51-dd77-42ff-a388-c976b03f8773" />
+
+
 
 </div>
 
