@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Damir
+# My name is Damir
 
 ### Fullstack Developer · Astana, Kazakhstan
 
