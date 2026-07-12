@@ -25,10 +25,8 @@
 |---|---|
 | [**HealthAssist**](https://healthcare.kz) — AI healthcare platform | Production web app: Next.js frontend, Node/Express REST API, Firebase, Prisma. Interactive 3D body-map symptom triage, Telegram bot client, privacy-first QR sessions, clinic search on Google Maps. Validated with 70 healthcare professionals |
 | [`ENT`](https://github.com/damirzhumangali/ENT) — ENT Quest (iOS) | RPG-style exam-prep game: SwiftUI menus/shop, SpriteKit battle engine where correct answers deal damage to bosses. DI-container architecture, fully animated arena |
-| [`Patient_Health_Monitoring`](https://github.com/damirzhumangali/Patient_Health_Monitoring) | IoT vitals monitor — ESP32, MAX30100, DS18B20, DHT11 feeding a live web dashboard |
-| [`Classic-Deadlock-Scenario`](https://github.com/damirzhumangali/Classic-Deadlock-Scenario) | Report + demo of a classic two-mutex deadlock on STM32F103C8T6 (Blue Pill) under FreeRTOS |
-| [`STM32F103C8T6-Pin-Configuration-with-button`](https://github.com/damirzhumangali/STM32F103C8T6-Pin-Configuration-with-button) | GPIO pin configuration and button-driven interrupt handling on STM32 |
-| [`microservo-and-lid`](https://github.com/damirzhumangali/microservo-and-lid) | Servo-driven mechanism project written in C |
+| [`Patient_Health_Monitoring`](https://github.com/damirzhumangali/contract) | AQ Construction company for construct to privat house. For message we can send in chat between manager and client|
+
 
 ### 📊 GitHub Stats
 
